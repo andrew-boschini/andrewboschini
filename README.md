@@ -47,7 +47,7 @@ I’ve led projects across system hardening, phishing simulations, penetration t
 
 ## Contact
 
-Libertyville, IL  
+Chicago, IL  
 LinkedIn: [linkedin.com/in/andrew-boschini](https://linkedin.com/in/andrew-boschini)  
 Email: andrewboschini@gmail.com  
 GitHub: [github.com/andrewboschini](https://github.com/andrewboschini)
