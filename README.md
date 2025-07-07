@@ -60,4 +60,4 @@ GitHub: [github.com/andrewboschini](https://github.com/andrewboschini)
 
 ---
 
-"Networks don't secure themselves—and that's where I come in."
+“Security is not a product, but a process.” — Bruce Schneier
