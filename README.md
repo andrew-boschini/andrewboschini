@@ -25,14 +25,20 @@ I’ve led projects across system hardening, phishing simulations, penetration t
 
 ---
 
-## Featured Projects
+## Cybersecurity Projects
 
-| Project | Summary | Tools |
-|--------|---------|-------|
-| [Linux Server Hardening](https://github.com/andrewboschini/linux-server-hardening) | Hardened a vulnerable Linux server by disabling insecure services, enforcing password policies, and tightening file system permissions | UFW, Fail2Ban, Bash |
-| [Rekall Corporation Pentest](https://github.com/andrewboschini/rekall-pentest) | Executed a multi-vector internal pentest simulation targeting Windows and Linux systems | Nmap, Metasploit, Burp Suite |
-| [VSI Security Monitoring (Splunk)](https://github.com/andrewboschini/vsi-splunk-monitoring) | Created dashboards and custom SPL queries to visualize indicators of compromise across simulated infrastructure | Splunk, Syslog, SPL |
-| [BootCon GoPhish Campaign](https://github.com/andrewboschini/bootcon-gophish) | Simulated a phishing campaign to demonstrate social engineering tactics and educate on mitigation strategies | GoPhish, Cloudflare, Rebrandly
+### [Linux Server Hardening](https://github.com/andrew-boschini/linux-server-hardening)
+Hardened a fictional organization’s Linux server using account auditing, file system permissions, service lockdowns, and OS backups. Demonstrated practical application of Linux security principles.
+
+### [Penetration Testing – Rekall Corp](https://github.com/andrew-boschini/Penetration-Testing-Rekall-Corporation)
+Led a red team engagement simulating web app, Linux, and Windows attacks. Included enumeration, exploitation, credential harvesting, and lateral movement across a fictional corporate network.
+
+### [Splunk Log Analysis](https://github.com/andrew-boschini/splunk-log-analysis)
+Built a defensive log analysis dashboard in Splunk to monitor and alert on suspicious behavior using Apache and Windows logs. Created queries and dashboards for SOC-style operations.
+
+### [Gophish Social Engineering Campaign](https://github.com/andrew-boschini/gophish-social-engineering)
+Developed and launched a phishing simulation using Gophish. Cloned a LinkedIn login portal and crafted a phishing email for BootCon. Captured detailed metrics on user behavior.
+
 
 ---
 
